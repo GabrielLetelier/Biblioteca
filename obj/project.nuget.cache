@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eH6iD7hjlT6JgD5pI227uWBzJ5RUeGF5TbZOFIkeNeuKA3SEioDyn2LgBb7NXFmLJ6pc40OfCTpS8aG0mhWQQA==",
+  "dgSpecHash": "gs4lMn1wRje0WuhhJbWy+Rh+8elOsPilfqZA0YcKNOX9RNkBafUh5SuTsyPZQONKCMNorjFM7jJkDUsLYaZPLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\letel\\Desktop\\UC7Atv1\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\letel\\Desktop\\UC07- Documentar e realizar manutenção de aplicações web\\Ativ.2\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\letel\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\letel\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
